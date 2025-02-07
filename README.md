@@ -5,10 +5,10 @@
 ## 📌 Contenido
 
 ### 1️⃣ Introducción
-- 🔹 ¿Qué son las bases de datos SQL?
-- 🔹 Características de las bases de datos NoSQL
-- 🔹 ¿Qué es el formato JSON?
-- 🔹 Comparativa entre bases de datos SQL y NoSQL
+-  ¿Qué son las bases de datos SQL?
+-  Características de las bases de datos NoSQL
+-  ¿Qué es el formato JSON?
+-  Comparativa entre bases de datos SQL y NoSQL
 
 ### 2️⃣ Primeros pasos con MongoDB
 - 🛠 **Instalación de MongoDB** - Cómo instalar y configurar MongoDB en Windows, Linux y macOS.
